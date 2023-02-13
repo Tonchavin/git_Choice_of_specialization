@@ -1,0 +1,15 @@
+F:\Less_CZN\git_Choice_of_specialization\Array_Search\bin\Debug\net6.0\Array_Search.exe
+F:\Less_CZN\git_Choice_of_specialization\Array_Search\bin\Debug\net6.0\Array_Search.deps.json
+F:\Less_CZN\git_Choice_of_specialization\Array_Search\bin\Debug\net6.0\Array_Search.runtimeconfig.json
+F:\Less_CZN\git_Choice_of_specialization\Array_Search\bin\Debug\net6.0\Array_Search.dll
+F:\Less_CZN\git_Choice_of_specialization\Array_Search\bin\Debug\net6.0\Array_Search.pdb
+F:\Less_CZN\git_Choice_of_specialization\Array_Search\obj\Debug\net6.0\Array_Search.csproj.AssemblyReference.cache
+F:\Less_CZN\git_Choice_of_specialization\Array_Search\obj\Debug\net6.0\Array_Search.GeneratedMSBuildEditorConfig.editorconfig
+F:\Less_CZN\git_Choice_of_specialization\Array_Search\obj\Debug\net6.0\Array_Search.AssemblyInfoInputs.cache
+F:\Less_CZN\git_Choice_of_specialization\Array_Search\obj\Debug\net6.0\Array_Search.AssemblyInfo.cs
+F:\Less_CZN\git_Choice_of_specialization\Array_Search\obj\Debug\net6.0\Array_Search.csproj.CoreCompileInputs.cache
+F:\Less_CZN\git_Choice_of_specialization\Array_Search\obj\Debug\net6.0\Array_Search.dll
+F:\Less_CZN\git_Choice_of_specialization\Array_Search\obj\Debug\net6.0\refint\Array_Search.dll
+F:\Less_CZN\git_Choice_of_specialization\Array_Search\obj\Debug\net6.0\Array_Search.pdb
+F:\Less_CZN\git_Choice_of_specialization\Array_Search\obj\Debug\net6.0\Array_Search.genruntimeconfig.cache
+F:\Less_CZN\git_Choice_of_specialization\Array_Search\obj\Debug\net6.0\ref\Array_Search.dll
